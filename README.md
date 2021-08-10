@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [iRUN](https://irunauto.com/)
 
+- 👨‍💻 Currently an Engineer @TillPos
+
 - 🌱 I’m currently learning **Go || Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godfredakpan](https://github.com/godfredakpan)
