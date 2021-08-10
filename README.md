@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ti9dWPyoh5_SlWo4obudy6fL5P8nHlqT/view?usp=sharing](https://drive.google.com/file/d/1Ti9dWPyoh5_SlWo4obudy6fL5P8nHlqT/view?usp=sharing)
 
-- ⚡ Fun fact **Reading rich dad poor dad for the 9th time !**
+- ⚡ Fun fact **Reading rich dad poor dad is my life dictionary !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
