@@ -11,7 +11,7 @@
 
 - 👨‍💻 Currently an Engineer @TillPos
 
-- 🌱 I’m currently learning **Go || Typescript**
+- 🌱 I’m currently learning **Go ||**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godfredakpan](https://github.com/godfredakpan)
 
