@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godfred Akpan</h1>
-<h3 align="center">Great things comes to those who believe great things exists.</h3>
+<h3 align="center">Great things come to those who believe that great things exist.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=godfredakpan&label=Profile%20views&color=0e75b6&style=flat" alt="godfredakpan" /> </p>
 
