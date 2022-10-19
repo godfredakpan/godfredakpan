@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [iRUN](https://irunauto.com/)
 
-- 👨‍💻 Senior Engineer @TillPos
+- 👨‍💻 Senior Engineer @Purple
 
 - 🌱 Learning **Go ||**
 
