@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/godfredakpan" target="blank"><img src="https://img.shields.io/twitter/follow/godfredakpan?logo=twitter&style=for-the-badge" alt="godfredakpan" /></a> </p> -->
 
-- 🔭 I’m currently working on [iRUN](https://irunauto.com/)
+- 🔭 Building [iRUN](https://irunauto.com/)
 
 - 👨‍💻 Senior Engineer @Purple
 
