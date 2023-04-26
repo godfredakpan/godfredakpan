@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/godfredakpan](https://github.com/godfredakpan)
 
-- 💬 Ask me about **.js |.py | .php**
+- 💬 Ask me stuff about **.js |.py | .php**
 
 - 📫 How to reach me **godfredakpan@gmail.com**
 
