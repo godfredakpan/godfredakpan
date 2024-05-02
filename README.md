@@ -9,7 +9,7 @@
 
 - 🔭 Building [iRUN](https://irunauto.com/)
 
-- 👨‍💻 Senior Engineer @Purple
+- 👨‍💻 EX Senior Engineer @Purple
 
 - 🌱 Learning **Go ||**
 
