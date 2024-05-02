@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/godfredakpan" target="blank"><img src="https://img.shields.io/twitter/follow/godfredakpan?logo=twitter&style=for-the-badge" alt="godfredakpan" /></a> </p> -->
 
-- 🔭 Building [iRUN](https://irunauto.com/)
+- 🔭 Building [Werun](https://werunhq.com/) && [Lekture](https://lekture.vercel.app/)
 
 - 👨‍💻 EX Senior Engineer @Purple
 
